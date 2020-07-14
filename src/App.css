@@ -1,3 +1,4 @@
-.App {
-  text-align: center;
+.card,
+.list-group-item {
+  border: 0px !important;
 }
